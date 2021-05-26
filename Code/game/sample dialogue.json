@@ -1,0 +1,91 @@
+[
+    {
+        "type": "scene change",
+        "speaker": 1,
+        "background": "bg Library"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Teacher",
+        "sprites": "None",
+        "dialogue": "Okay, class! For your midterm project, you will be doing a presentation on any era we've learned in class so far. You'll be put into groups of three to four -- which I have already chosen for you. In a moment, I'll call out the groups. I want you to meet your group members and choose a topic before the bell rings."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Narrator",
+        "sprites": "None",
+        "dialogue": "The teacher calls out names and the students push their desks together. There are mostly groups of four, but one group of three is formed as well."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Narrator",
+        "sprites": "None",
+        "dialogue": "Alec could clearly tell that the two girls did not want to be there very much. And so, to cut down on the awkwardness, he decided to take the reigns."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Neutral",
+        "dialogue": "Does anyone have any ideas about a possible topic?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chloe",
+        "sprites": "MS C Triumphant",
+        "dialogue": "I've got one: today's era! We're living in it, so there's not much to research!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Amused",
+        "dialogue": "Yeah, I wish. But, unfortunately, we need to choose something from class."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chloe",
+        "sprites": "MS C Annoyed",
+        "dialogue": "Aww, you're no fun! Do you have anything better?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Intellectual",
+        "dialogue": "I was thinking something like the Industrial Revolution."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chloe",
+        "sprites": "MS C Bored",
+        "dialogue": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Annoyed",
+        "dialogue": "Just hear me out!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Intellectual",
+        "dialogue": "There are so many cool inventions that we could talk about. Like the cotton gin! And the steam engine!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chloe",
+        "sprites": "MS C Excited",
+        "dialogue": "Ooh! Steam engine sounds cool. I vote for that idea!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chloe",
+        "sprites": "MS C Triumphant",
+        "dialogue": "It's official. We're doing the inbustrial whatever and talking about steam engines!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alec",
+        "sprites": "MS A Unamused",
+        "dialogue": "The Industrial Revolution, you mean."
+    }
+]
