@@ -22,7 +22,7 @@ For the backgrounds, I used Blender to construct a 3D scene and used Photoshop t
 ![officeProcess](https://user-images.githubusercontent.com/42648282/119732167-da55a980-be45-11eb-810b-9d4a647148ff.png)
 
 <p align="center">
-I have completed 10 out of 21 backgrounds so far. [View them here](https://github.com/Ajahni1016/Visual-Novel-Demo/blob/main/Backgrounds.md)
+I have completed 10 out of 21 backgrounds so far. [View them here!](https://github.com/Ajahni1016/Visual-Novel-Demo/blob/main/Backgrounds.md)
 
 </p>
 
